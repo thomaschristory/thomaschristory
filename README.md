@@ -6,7 +6,7 @@ I build tools for network and infrastructure automation: NetBox plugins, command
 
 ## NetBox plugins
 
-- [netbox-ipam-treeview-plugin](https://github.com/thomaschristory/netbox-ipam-treeview-plugin): DDI-style collapsible tree view for IPAM prefixes.
+- [netbox-ipam-treeview-plugin](https://github.com/thomaschristory/netbox-ipam-treeview-plugin): DDI-style collapsible tree view for IPAM prefixes ([docs](https://thomaschristory.github.io/netbox-ipam-treeview-plugin/)).
 - [netbox-opentelemetry-plugin](https://github.com/thomaschristory/netbox-opentelemetry-plugin): export logs, audit records, traces and metrics over OTLP ([docs](https://thomaschristory.github.io/netbox-opentelemetry-plugin/)).
 - [netbox-permissions-matrix-plugin](https://github.com/thomaschristory/netbox-permissions-matrix-plugin): view and edit object permissions as a matrix of object types and groups ([docs](https://thomaschristory.github.io/netbox-permissions-matrix-plugin/)).
 - [netbox-windows-dhcp-plugin](https://github.com/thomaschristory/netbox-windows-dhcp-plugin): read and write Windows DHCP Server data over WinRM ([docs](https://thomaschristory.github.io/netbox-windows-dhcp-plugin/)).
